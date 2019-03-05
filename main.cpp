@@ -1,4 +1,4 @@
-// Travel Agency Management System Project By CodeWithC.com
+// Travel Agency Management System Project With SQL Database
 
 #include<iostream>
 #include<cstdio>
