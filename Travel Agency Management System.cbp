@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<CodeBlocks_project_file>
+<project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
 		<Option title="Travel Agency Management System" />
@@ -13,10 +13,10 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
-					<Add directory="H:/CodeBlocks/Codeblocks/MinGW/include" />
+					<Add directory="H:/Abhishek/abhishek/MinGW/include" />
 				</Compiler>
 				<Linker>
-					<Add library="H:\CodeBlocks\Codeblocks\MinGW\lib\libmysql.a" />
+					<Add library="H:\Abhishek\abhishek\MinGW\lib\libmysql.a" />
 				</Linker>
 			</Target>
 			<Target title="Release">
@@ -44,4 +44,4 @@
 			<lib_finder disable_auto="1" />
 		</Extensions>
 	</Project>
-</CodeBlocks_project_file>
+</project_file>
