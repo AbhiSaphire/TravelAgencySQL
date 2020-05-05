@@ -44,7 +44,6 @@ INSERT INTO `travelagencytrips_tb` (`t_id`, `t_trip`) VALUES
 
 --
 -- Table structure for table `travelagency_tb`
--- Project By CodeWithC.com
 --
 
 CREATE TABLE `travelagency_tb` (
