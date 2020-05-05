@@ -137,8 +137,7 @@ int main()
     }
     return 0;
 }
-//Project By CodeWithC.com
-// Functions
+
 void NewTravelTrip()
 {
     // Initial Load
@@ -971,8 +970,7 @@ void DeleteTrip()
             cout << "Item Not Found in database." << endl;
         }
     }
-//Project By CodeWithC.com
-    // Exit Code
+
     ExitMenu:
     cout << "Press 'm' to Menu, 'd' to delete another record and any other key to Exit: ";
     cin >> choose;
